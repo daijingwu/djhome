@@ -3,7 +3,7 @@
 # repo @ https://github.com/daijingwu/djhome
 # ref.: http://blog.gogojimmy.net/2012/01/17/how-to-use-git-1-git-basic/
 # ref.: http://git-scm.com/book/zh/v2/起步-安装-Git
-# date:
+# ref.: http://blog.wu-boy.com/2011/09/introduction-to-git-submodule/  git submodule 
 
 $ git clone https://github.com/daijingwu/djhome.git
 $ git config --global user.email "daijingwu@gmail.com"
