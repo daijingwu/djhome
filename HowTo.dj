@@ -12,4 +12,4 @@ $ git add $newfile
 $ git commit -m "xxx"
 $ git push
 
-
+$ git status
