@@ -6,6 +6,9 @@ git config --global user.name "Daijing Wu"
 git config --global alias.st status
 git config --global alias.co checkout
 
+# 避免每次输入密码
+git config --global credential.helper cache
+
 # Git 對於空白的變化便會忽略不計
 git config --global apply.whitespace nowarn
 
