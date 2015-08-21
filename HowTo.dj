@@ -1,12 +1,17 @@
 == Git ==
 # https://github.com/daijingwu/djhome
-# test
+# repo @ https://github.com/daijingwu/djhome
+# ref.: http://blog.gogojimmy.net/2012/01/17/how-to-use-git-1-git-basic/
+# ref.: http://git-scm.com/book/zh/v2/起步-安装-Git
+# date:
+
 $ git clone https://github.com/daijingwu/djhome.git
 $ git config --global user.email "daijingwu@gmail.com"
 $ git config --global user.name "Daijing Wu"
 
 $ git remote -v
-$ git fetch
+$ git fetch upstream
+$ git merge upstream/master
 
 $ git add $newfile
 $ git commit -m "xxx"
