@@ -13,3 +13,11 @@ $ git commit -m "xxx"
 $ git push
 
 $ git status
+$ git pull
+Updating e77c0e4..6f7814a
+Fast-forward
+ HowTo.dj | 15 +++++++++++++++
+ 1 file changed, 15 insertions(+)
+ create mode 100644 HowTo.dj
+
+
