@@ -25,4 +25,4 @@ Fast-forward
  1 file changed, 15 insertions(+)
  create mode 100644 HowTo.dj
 
-
+$ git log --stat
