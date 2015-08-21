@@ -1,0 +1,4 @@
+# /etc/hosts #
+# chef configurations
+192.168.31.219  chef-svr
+#192.168.1.105  chef-svr
