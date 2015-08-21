@@ -1,0 +1,15 @@
+== Git ==
+# https://github.com/daijingwu/djhome
+
+$ git clone https://github.com/daijingwu/djhome.git
+$ git config --global user.email "daijingwu@gmail.com"
+$ git config --global user.name "Daijing Wu"
+
+$ git remote -v
+$ git fetch
+
+$ git add $newfile
+$ git commit -m "xxx"
+$ git push
+
+
