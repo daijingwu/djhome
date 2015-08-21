@@ -1,6 +1,6 @@
 == Git ==
 # https://github.com/daijingwu/djhome
-
+# test
 $ git clone https://github.com/daijingwu/djhome.git
 $ git config --global user.email "daijingwu@gmail.com"
 $ git config --global user.name "Daijing Wu"
