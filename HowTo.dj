@@ -17,6 +17,17 @@ $ git add $newfile
 $ git commit -m "xxx"
 $ git push
 
+# reset the stage of a file
+$ git reset HEAD chef/hosts.txt
+$ git status
+
+# add a new folder and the files
+$ git add chef/
+$ git status
+$ git commit -m "host info for chef added"
+$ git push
+
+
 $ git status
 $ git pull
 Updating e77c0e4..6f7814a
